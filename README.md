@@ -16,5 +16,8 @@
 
 
 ## 📱联系
-- Telegram: [@Loong2024bot](https://t.me/Loong2024bot)
+- Telegram: [@CNiao_bot](https://t.me/CNiao_bot)
   - 如遇资源访问问题请通过Telegram反馈。
+<p align="center">
+  <img src="https://iTaoPu.Github.io/言家稗子-标准色版.png" alt="微信公眾號" />
+</p>
